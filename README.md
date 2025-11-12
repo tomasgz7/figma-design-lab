@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
   <img src="https://img.shields.io/badge/Language-English%20%2B%20Español-lightgrey" />
-  <img src="https://img.shields.io/badge/Progress-1%20of%20100%20Projects-blue" />
+  <img src="https://img.shields.io/badge/Progress-2%20of%20100%20Projects-blue" />
 </p>
 
 ---
@@ -29,6 +29,7 @@ Funciona como un **portfolio profesional** y una **bitácora de aprendizaje cont
 | Nº | Project | Type | Level | Repo / Link |
 |----|----------|------|--------|--------------|
 | 001 | 🎨 [Color Theory Practice](https://github.com/tomasgz7/figma-project-001-color-theory) | Visual Fundamentals | 🟢 Beginner | [View Repo](https://github.com/tomasgz7/figma-project-001-color-theory) |
+| 048 | 🐾 [PetCare Connect](https://github.com/tomasgz7/figma-project-048-petcare-connect) | Health App Prototype | 🟣 Senior | [View Prototype](https://www.figma.com/proto/1mgE7qRaSSSbC6SSNVjGUU/PetCare-Connect-%E2%80%93-Figma-Project-048?t=Rf9dns1sg6U8K7Vg-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=89-41&starting-point-node-id=89%3A41) |
 
 ---
 
@@ -56,8 +57,6 @@ Each one focuses on a specific concept — color, typography, components, system
 ##  Contact  
 
 -  LinkedIn: [linkedin.com/in/tomasgz7](https://linkedin.com/in/tomasgz7)  
-
-
 
 ---
 
